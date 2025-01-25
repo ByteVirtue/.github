@@ -19,10 +19,11 @@ We believe in creating practical solutions that are easy to use, effective, and,
 - **[Bud](https://github.com/bud3699/)**  
   A tech enthusiast and skilled developer, Bud brings understanding and general skills expertise to the team.  
   > *"I'm just a chill programmer who enjoys programming and seeing whats possible with just that little bit of effort."*
-  > 
+  
 - **[Nadroj](https://github.com/Nadroj-Mail/)**  
     Under the influence of death metal, Nadroj slams his keys to make something he doesn't know he doing.
-> *"I strive t create programs t bridge t gap between f*** about n find out n functionality (Not thar I know anything about functionalities)."*
+    > *"I strive t create programs t bridge t gap between f*** about n find out n functionality (Not thar I know anything about functionalities)."*
+    
 
 Together, we complement each other’s skills, collaborating to deliver solutions that genuinely make a difference.  
 
